@@ -1,2 +1,2 @@
-a = input("Digite seu nome: ")
-print(f'Seja bem vindo {a}!')
+a = input("Digite seu primeiro nome: ")
+print(f'Bem-vindo ao Python, {a}!')
